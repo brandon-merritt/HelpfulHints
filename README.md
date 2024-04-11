@@ -3,11 +3,17 @@ A collection of tips as I go.
 
 ## Changing Folder Display Mode in Visual Studio Code
 
-This guide will walk you through changing the folder display mode in Visual Studio Code (VSCode) to suit your preferences.
+### Screenshots
+
+*Compact Folders Mode: On*
+![Compact Folders On](/00Checked.png)
+
+*Compact Folders Mode: Off*
+![Compact Folders Off](/01UnChecked.png)
 
 ### Overview
 
-By default, VSCode displays folders in a hierarchical tree structure in the Explorer. However, you have the option to switch to a more compact view where folders are displayed in a single row.
+If you want your folders to drop down when you create them instead of inline, especially for new folders with nothing in them. It's at least easier for me, so it might be for you, too.
 
 ### Instructions
 
@@ -26,13 +32,5 @@ By default, VSCode displays folders in a hierarchical tree structure in the Expl
         - `Off`: Folders are displayed in a hierarchical tree structure.
 
 5. **View Changes**: The Explorer in VSCode will reflect the changes immediately.
-
-### Screenshots
-
-![Compact Folders On](/00Checked.png)
-*Compact Folders Mode: On*
-
-![Compact Folders Off](/01UnChecked.png)
-*Compact Folders Mode: Off*
 
 ---
