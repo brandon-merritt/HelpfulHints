@@ -5,15 +5,15 @@ A collection of tips as I go.
 
 ### Screenshots
 
-*Compact Folders Mode: On*
+*Compact Folders Mode:* **ON**
 ![Compact Folders On](/00Checked.png)
 
-*Compact Folders Mode: Off*
+*Compact Folders Mode* **OFF**
 ![Compact Folders Off](/01UnChecked.png)
 
 ### Overview
 
-If you want your folders to drop down when you create them instead of inline, especially for new folders with nothing in them. It's at least easier for me, so it might be for you, too.
+An easy switch for desired folder management.
 
 ### Instructions
 
