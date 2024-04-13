@@ -15,7 +15,7 @@ Starting to develop Python applications and managing multiple projects can be st
    - Separate Concerns: Divide your project into modules and packages based on functionality. Follow the principles of modular design to keep your codebase clean and maintainable.
 
 3. **Version Control with Git**:
-    - If you don't have Git setup [GitHub-QuickStart]()
+    - If you don't have Git setup [GitHub-QuickStart](GitHub-QuickStart.md)
    - Initialize a Git Repository: Use Git for version control to track changes and collaborate with others. Navigate to your project directory and initialize a Git repository:
      ```
      git init
