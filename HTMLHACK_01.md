@@ -1,3 +1,5 @@
+# HTML With A Bang ( '!' )
+
 [![Video Demo](https://img.youtube.com/vi/Yt9y2-i2TcM/0.jpg)](https://www.youtube.com/watch?v=Yt9y2-i2TcM)
 
 When you create a new HTML file in Visual Studio Code (VS Code) and use the `!` snippet, it generates an entire HTML boilerplate because it's a common starting point for HTML development. This boilerplate provides a basic structure for an HTML document, including the necessary `<html>`, `<head>`, and `<body>` tags, as well as a UTF-8 character encoding declaration.
